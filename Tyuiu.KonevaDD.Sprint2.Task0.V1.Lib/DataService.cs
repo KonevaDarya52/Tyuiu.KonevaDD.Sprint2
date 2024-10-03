@@ -12,7 +12,7 @@ namespace Tyuiu.KonevaDD.Sprint2.Task0.V1.Lib
             res[3] = x - 144 > y;
 
             res[4] = x + 11 <= y * 2;
-            res[5] = x * 10 >= y / 122;
+            res[5] = x * 10 >= y * 20;
 
             return res;
         }
